@@ -7,7 +7,7 @@ extern "C" {
 
 #define D_MSG_ID_01 0x01
 #define D_MSG_ID_02 0x02
-#define D_MSG_ID_03 0x02
+#define D_MSG_ID_03 0x03
 
 struct MsgBase {
   unsigned char from;
